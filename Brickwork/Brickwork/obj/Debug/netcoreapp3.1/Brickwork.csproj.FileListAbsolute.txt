@@ -1,0 +1,26 @@
+D:\University\Others\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.exe
+D:\University\Others\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.deps.json
+D:\University\Others\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.runtimeconfig.json
+D:\University\Others\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.runtimeconfig.dev.json
+D:\University\Others\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.dll
+D:\University\Others\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.pdb
+D:\University\Others\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.csprojAssemblyReference.cache
+D:\University\Others\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.AssemblyInfoInputs.cache
+D:\University\Others\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.AssemblyInfo.cs
+D:\University\Others\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.csproj.CoreCompileInputs.cache
+D:\University\Others\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.dll
+D:\University\Others\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.pdb
+D:\University\Others\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.genruntimeconfig.cache
+D:\University\Others\New folder\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.exe
+D:\University\Others\New folder\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.deps.json
+D:\University\Others\New folder\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.runtimeconfig.json
+D:\University\Others\New folder\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.runtimeconfig.dev.json
+D:\University\Others\New folder\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.dll
+D:\University\Others\New folder\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.pdb
+D:\University\Others\New folder\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.csprojAssemblyReference.cache
+D:\University\Others\New folder\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.AssemblyInfoInputs.cache
+D:\University\Others\New folder\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.AssemblyInfo.cs
+D:\University\Others\New folder\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.csproj.CoreCompileInputs.cache
+D:\University\Others\New folder\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.dll
+D:\University\Others\New folder\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.pdb
+D:\University\Others\New folder\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.genruntimeconfig.cache
